@@ -1,0 +1,7 @@
+SELECT 
+    Name 
+FROM 
+    City
+WHERE 
+    countrycode = 'JPN'
+;
