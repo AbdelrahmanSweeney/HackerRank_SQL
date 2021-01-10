@@ -1,2 +1,4 @@
-select* from City c
-Where population > 100000 and countrycode = 'USA';
+SELECT* 
+FROM City c
+WHERE population > 100000 and countrycode = 'USA'
+;
